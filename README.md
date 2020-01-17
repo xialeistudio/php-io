@@ -6,7 +6,7 @@ As you know, `pack`/`unpack` is not user-friendly to operate binary data, so tha
 
 You can use this project to develop binary protocol client(eg. kafka, memcached, etc...)
 
-中文文档[README-CN.md]
+[中文文档](README-CN.md)
 
 ## Install
 
